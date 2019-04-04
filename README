@@ -11,4 +11,4 @@ kube-proxy-amd64
 kubernetes-dashboard-amd64
 kube-scheduler-amd64
 pause-amd64
-
+coredns
